@@ -16,7 +16,7 @@ pipenv
 Simply clone the repo
 
 ```
-git clone https://prometheus.io/docs/guides/basic-auth/
+git clone https://github.com/doughoke/bcrypt-ur-pwd.git
 ```
 
 Install requirements
