@@ -6,7 +6,7 @@ name = "pypi"
 [dev-packages]
 
 [packages]
-bcrypt = "==4.0.1"
+bcrypt = "==4.1.2"
 
 [requires]
 python_version = "3.11"
